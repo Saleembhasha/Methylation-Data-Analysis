@@ -1,5 +1,6 @@
 # Integration of Gene Expression and Region-Specific DNA Methylation to Identify Anticorrelated Regulatory Relationship
 Key steps explained:
+
 Select methylation probes from specific regions (e.g., TSS1500).
 
 Calculate correlation coefficients (e.g., Pearson or Spearman) between the expression of each gene and the beta values of corresponding probes in the region, across all samples.
